@@ -1,6 +1,9 @@
-export default function LinkButton({icon, title, description, url}) {
+export default function LinkButton({ icon, title, description, url }) {
   return (
-    <a href={url} className="flex flex-row p-4 rounded-lg mb-2 hover:bg-gray-100 dark:hover:bg-slate-700">
+    <a
+      href={url}
+      className="flex border-2 border-slate-200 dark:border-white/40 flex-row p-4 rounded-lg mb-2 hover:bg-gray-100 dark:hover:bg-slate-700"
+    >
       <div className="flex flex-row justify-center items-center w-12 h-12 rounded-full bg-white dark:bg-slate-200">
         <span className="text-2xl">{icon}</span>
       </div>
