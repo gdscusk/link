@@ -3,38 +3,24 @@
     "groupName": "Links",
     "links": [
       {
-        "icon": "🍔",
-        "title": "Burger Land!",
-        "description": "Tempat makan burger terdekat",
-        "url": "https://instagram.com/gdscusk"
-      }
-    ]
-  },
-  {
-    "groupName": "Events",
-    "links": [
+        "icon": "💻",
+        "title": "Join Member GDSC USK",
+        "url": "https://links.gdscusk.com/gdsc"
+      },
       {
-        "icon": "icons/google-dev-logo.png",
-        "title": "GDSC USK Website",
-        "description": "Not actually lead to the website",
+        "icon": "📚",
+        "title": "Docs GDSC USK",
+        "url": "https://docs.gdscusk.com/"
+      },
+      {
+        "icon": "📱",
+        "title": "Instagram GDSC USK",
         "url": "https://instagram.com/gdscusk"
       },
       {
-        "icon": "🦁",
-        "title": "Taman Budaya",
-        "description": "Tempat tinggal singa",
-        "url": "https://instagram.com/gdscusk"
-      }
-    ]
-  },
-  {
-    "groupName": "Resources",
-    "links": [
-      {
-        "icon": "🔗",
-        "title": "Instagram",
-        "description": "Instagram Link",
-        "url": "https://instagram.com/gdscusk"
+        "icon": "🧑🏻‍💻",
+        "title": "Discord GDSC USK",
+        "url": "https://links.gdscusk.com/DiscordServer"
       }
     ]
   }
