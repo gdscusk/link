@@ -1,0 +1,41 @@
+[
+  {
+    "groupName": "Links",
+    "links": [
+      {
+        "icon": "🍔",
+        "title": "Burger Land!",
+        "description": "Tempat makan burger terdekat",
+        "url": "https://instagram.com/gdscusk"
+      }
+    ]
+  },
+  {
+    "groupName": "Events",
+    "links": [
+      {
+        "icon": "icons/google-dev-logo.png",
+        "title": "GDSC USK Website",
+        "description": "Not actually lead to the website",
+        "url": "https://instagram.com/gdscusk"
+      },
+      {
+        "icon": "🦁",
+        "title": "Taman Budaya",
+        "description": "Tempat tinggal singa",
+        "url": "https://instagram.com/gdscusk"
+      }
+    ]
+  },
+  {
+    "groupName": "Resources",
+    "links": [
+      {
+        "icon": "🔗",
+        "title": "Instagram",
+        "description": "Instagram Link",
+        "url": "https://instagram.com/gdscusk"
+      }
+    ]
+  }
+]
