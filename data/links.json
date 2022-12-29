@@ -1,5 +1,16 @@
 [
   {
+    "groupName": "Events",
+    "links": [
+      {
+        "icon": "📘",
+        "title": "Basic Programming Academy",
+        "description": "Getting Know How To Code With Python",
+        "url": "https://links.gdscusk.com/BasicProgrammingPython"
+      }
+    ]
+  },
+  {    
     "groupName": "Links",
     "links": [
       {
