@@ -2,9 +2,9 @@ export default function LinkButton({ icon, title, description, url }) {
   return (
     <a
       href={url}
-      className="flex border-2 border-slate-200 dark:border-white/40 flex-row p-4 rounded-lg mb-2 hover:bg-gray-100 dark:hover:bg-slate-700"
+      className="flex border-2 border-slate-200 dark:border-white/40 flex-row p-4 rounded-lg mb-2 hover:bg-gray-100 dark:hover:bg-slate-700 items-center"
     >
-      <div className="flex flex-row justify-center items-center w-12 h-12 rounded-full bg-white dark:bg-slate-200">
+      <div className="flex flex-row justify-center items-center w-12 h-12 rounded-full bg-white dark:bg-slate-200 aspect-square">
         {
           icon.startsWith("icons/") ? (
             <img className="p-2" src={icon} alt={title + "Icon"} />
