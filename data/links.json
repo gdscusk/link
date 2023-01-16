@@ -1,21 +1,5 @@
 [
   {
-    "groupName": "Events",
-    "links": [
-      {
-        "icon": "📢",
-        "title": "Web Academy",
-        "description": "Week 1: Learn The Basic of Web Programming with GDSC USK",
-        "url": "https://links.gdscusk.com/WebAcademy"
-      },
-      {
-        "icon": "📚",
-        "title": "Docs Web Academy",
-        "url": "https://docs.gdscusk.com/Web-Programming/course-intro"
-      }
-    ]
-  },
-  {
     "groupName": "Links",
     "links": [
       {
