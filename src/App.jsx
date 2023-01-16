@@ -2,7 +2,7 @@ import LinkGroup from "./components/LinkGroup";
 import LinkButton from "./components/LinkButton";
 import links from "../data/links.json";
 
-import { Helmet } from 'react-helmet';
+import { Helmet } from "react-helmet";
 import { useState } from "react";
 
 function App() {
@@ -39,12 +39,21 @@ function App() {
             </div>
 
             {links.map((linkGroup) => (
-              <LinkGroup key={linkGroup.groupName} groupName={linkGroup.groupName}>
+              <LinkGroup
+                key={linkGroup.groupName}
+                groupName={linkGroup.groupName}
+              >
                 {linkGroup.links.map((link) => (
                   <LinkButton key={link.title} {...link} />
                 ))}
               </LinkGroup>
             ))}
+
+            <div className="space-x-4 mt-11 text-center">
+              <p className="dark:text-white">
+                2023 - GDSC Universitas Syiah Kuala
+              </p>
+            </div>
 
           </div>
           <button
